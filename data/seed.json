@@ -1,0 +1,300 @@
+{
+  "version": 1,
+  "currentUser": {
+    "id": "me",
+    "name": "Alex",
+    "age": 29,
+    "photo": "/profiles/me.jpg"
+  },
+  "profiles": [
+    {
+      "id": "p01",
+      "name": "Maya",
+      "age": 27,
+      "photo": "/profiles/p01.jpg",
+      "bio": "Product designer who collects other people's grocery lists. Usually at a gallery, a ceramics class, or hunting down the city's best noodles.",
+      "city": "Brooklyn, NY",
+      "interests": ["Ceramics", "Film photography", "Ramen", "Gallery hops"]
+    },
+    {
+      "id": "p02",
+      "name": "Theo",
+      "age": 29,
+      "photo": "/profiles/p02.jpg",
+      "bio": "Architect who draws buildings for a living and cooks elaborate dinners for one. Ask me about the perfect corner window.",
+      "city": "London, UK",
+      "interests": ["Jazz", "Architecture", "Sunday roasts", "Cycling"]
+    },
+    {
+      "id": "p03",
+      "name": "Aisha",
+      "age": 25,
+      "photo": "/profiles/p03.jpg",
+      "bio": "Marketing by day, aspiring poet by night. I will absolutely drag you to a desert sunrise.",
+      "city": "Dubai, UAE",
+      "interests": ["Poetry", "Pilates", "Desert drives", "Matcha"]
+    },
+    {
+      "id": "p04",
+      "name": "Noah",
+      "age": 31,
+      "photo": "/profiles/p04.jpg",
+      "bio": "Builds software, breaks bread. Trail runner with a soft spot for old synths and breakfast tacos.",
+      "city": "Austin, TX",
+      "interests": ["Trail running", "Synths", "Tacos", "Live music"]
+    },
+    {
+      "id": "p05",
+      "name": "Sofia",
+      "age": 28,
+      "photo": "/profiles/p05.jpg",
+      "bio": "Chef, market wanderer, professional snack critic. My love language is a very long lunch.",
+      "city": "Madrid, Spain",
+      "interests": ["Cooking", "Flamenco", "Vermouth", "Food markets"]
+    },
+    {
+      "id": "p06",
+      "name": "Elias",
+      "age": 30,
+      "photo": "/profiles/p06.jpg",
+      "bio": "I read too many novels and own too many tote bags. Looking for someone to split a loaf of bread with.",
+      "city": "Berlin, Germany",
+      "interests": ["Literature", "Indie cinema", "Sourdough", "Vinyl"]
+    },
+    {
+      "id": "p07",
+      "name": "Amara",
+      "age": 27,
+      "photo": "/profiles/p07.jpg",
+      "bio": "ER nurse with excellent playlists. Off duty: dance classes, lake swims, and finding the city's best patty.",
+      "city": "Toronto, Canada",
+      "interests": ["Dance", "Lake swims", "Brunch", "Podcasts"]
+    },
+    {
+      "id": "p08",
+      "name": "James",
+      "age": 26,
+      "photo": "/profiles/p08.jpg",
+      "bio": "Physio who is very bad at taking his own advice. Beach mornings, dogs, and a flat white.",
+      "city": "Melbourne, Australia",
+      "interests": ["Surfing", "Dogs", "Coffee", "AFL"]
+    },
+    {
+      "id": "p09",
+      "name": "Priya",
+      "age": 26,
+      "photo": "/profiles/p09.jpg",
+      "bio": "Astronomy PhD student. I'll point out constellations whether you ask or not.",
+      "city": "Bengaluru, India",
+      "college": "Indian Institute of Science",
+      "interests": ["Astronomy", "Trekking", "Filter coffee", "Sci-fi"]
+    },
+    {
+      "id": "p10",
+      "name": "Kai",
+      "age": 28,
+      "photo": "/profiles/p10.jpg",
+      "bio": "I ask too many questions for a living. Climbing, sci-fi, and pour-over coffee on weekends.",
+      "city": "Seattle, WA",
+      "interests": ["Climbing", "Sci-fi", "Pour-over", "Design"]
+    },
+    {
+      "id": "p11",
+      "name": "Zara",
+      "age": 24,
+      "photo": "/profiles/p11.jpg",
+      "bio": "Junior developer, senior overthinker. Hiking, comedy nights, and a braai with good people.",
+      "city": "Cape Town, South Africa",
+      "interests": ["Hiking", "Live comedy", "Braais", "Board games"]
+    },
+    {
+      "id": "p12",
+      "name": "Marcus",
+      "age": 32,
+      "photo": "/profiles/p12.jpg",
+      "bio": "High school history teacher and chess club reluctant advisor. Deep dish is a personality trait.",
+      "city": "Chicago, IL",
+      "interests": ["Chess", "Running", "Deep dish", "Museums"]
+    },
+    {
+      "id": "p13",
+      "name": "Layla",
+      "age": 28,
+      "photo": "/profiles/p13.jpg",
+      "bio": "I design bridges and then walk across them for fun. Sea swims, poetry, and feeding everyone.",
+      "city": "Beirut, Lebanon",
+      "interests": ["Sea swims", "Poetry", "Cooking", "Architecture"]
+    },
+    {
+      "id": "p14",
+      "name": "Leo",
+      "age": 27,
+      "photo": "/profiles/p14.jpg",
+      "bio": "Photographer chasing soft light and good tiles. Will make you stand in front of a wall for 20 minutes.",
+      "city": "Lisbon, Portugal",
+      "interests": ["Photography", "Ocean", "Azulejos", "Pastel de nata"]
+    },
+    {
+      "id": "p15",
+      "name": "Nia",
+      "age": 26,
+      "photo": "/profiles/p15.jpg",
+      "bio": "Writer of captions, collector of thrifted jackets. Roller skating is my cardio and my personality.",
+      "city": "Atlanta, GA",
+      "interests": ["Thrifting", "Roller skating", "R&B", "Writing"]
+    },
+    {
+      "id": "p16",
+      "name": "Sam",
+      "age": 30,
+      "photo": "/profiles/p16.jpg",
+      "bio": "Barista and illustrator. I can draw you, but my latte art is better than my portraits.",
+      "city": "Dublin, Ireland",
+      "interests": ["Illustration", "Coffee", "Comics", "Trad music"]
+    },
+    {
+      "id": "p17",
+      "name": "Olivia",
+      "age": 31,
+      "photo": "/profiles/p17.jpg",
+      "bio": "Urban planner who believes in good bike lanes and better sandwiches. Sea swims year-round.",
+      "city": "Copenhagen, Denmark",
+      "interests": ["Cycling", "Design", "Sea swims", "Sandwiches"]
+    },
+    {
+      "id": "p18",
+      "name": "Daniel",
+      "age": 28,
+      "photo": "/profiles/p18.jpg",
+      "bio": "Pastry chef, early riser, aggressive croissant advocate. Ask me for dinner recommendations.",
+      "city": "New York, NY",
+      "interests": ["Baking", "Basketball", "Central Park", "Jazz"]
+    },
+    {
+      "id": "p19",
+      "name": "Lina",
+      "age": 25,
+      "photo": "/profiles/p19.jpg",
+      "bio": "Art history student with a museum habit. I will befriend the museum guard so we can stay after closing.",
+      "city": "Paris, France",
+      "college": "Sorbonne",
+      "interests": ["Museums", "Film photography", "Pastries", "Cats"]
+    },
+    {
+      "id": "p20",
+      "name": "Yuki",
+      "age": 27,
+      "photo": "/profiles/p20.jpg",
+      "bio": "Translator, karaoke regular, reluctant morning person. Cats > almost everything.",
+      "city": "Osaka, Japan",
+      "interests": ["Karaoke", "Coffee", "Cats", "Travel"]
+    },
+    {
+      "id": "p21",
+      "name": "Mateo",
+      "age": 26,
+      "photo": "/profiles/p21.jpg",
+      "bio": "Documentary filmmaker with a lot of opinions about street food. Cumbia is always the answer.",
+      "city": "Mexico City, Mexico",
+      "interests": ["Film", "Street food", "Cumbia", "Murals"]
+    },
+    {
+      "id": "p22",
+      "name": "Elliot",
+      "age": 30,
+      "photo": "/profiles/p22.jpg",
+      "bio": "Product manager, amateur baker, ferry enthusiast. I plan trips around where I can swim.",
+      "city": "Amsterdam, Netherlands",
+      "interests": ["Baking", "Open water", "Design", "Ferry rides"]
+    },
+    {
+      "id": "p23",
+      "name": "Arjun",
+      "age": 27,
+      "photo": "/profiles/p23.jpg",
+      "bio": "Stand-up comic. Most of my material is about my mother, who is also my biggest fan.",
+      "city": "Mumbai, India",
+      "interests": ["Comedy", "Chai", "Cricket", "Open mics"]
+    },
+    {
+      "id": "p24",
+      "name": "Chloe",
+      "age": 24,
+      "photo": "/profiles/p24.jpg",
+      "bio": "Environmental science student. Whale nerd, snowshoe beginner, indie pop enthusiast.",
+      "city": "Vancouver, Canada",
+      "college": "UBC",
+      "interests": ["Whales", "Snowshoeing", "Indie pop", "Baking"]
+    },
+    {
+      "id": "p25",
+      "name": "Ben",
+      "age": 33,
+      "photo": "/profiles/p25.jpg",
+      "bio": "Chef with a whisky shelf and a hill-walking habit. I cook, you choose the record.",
+      "city": "Edinburgh, Scotland",
+      "interests": ["Whisky", "Hill walks", "Vinyl", "Cooking"]
+    },
+    {
+      "id": "p26",
+      "name": "Grace",
+      "age": 29,
+      "photo": "/profiles/p26.jpg",
+      "bio": "Public health researcher. Yoga before coffee, road trips after. Always planning the next long drive.",
+      "city": "Nairobi, Kenya",
+      "interests": ["Yoga", "Jazz", "Road trips", "Reading"]
+    },
+    {
+      "id": "p27",
+      "name": "Ravi",
+      "age": 25,
+      "photo": "/profiles/p27.jpg",
+      "bio": "Product analyst who takes hawker food extremely seriously. Badminton on Sundays.",
+      "city": "Singapore",
+      "interests": ["Hawker food", "Badminton", "Travel", "Podcasts"]
+    },
+    {
+      "id": "p28",
+      "name": "Elena",
+      "age": 30,
+      "photo": "/profiles/p28.jpg",
+      "bio": "Architect, ceramicist, and gin-tonic defender. I like buildings with stories and people with them too.",
+      "city": "Barcelona, Spain",
+      "interests": ["Architecture", "Ceramics", "History", "Gin tonics"]
+    },
+    {
+      "id": "p29",
+      "name": "Jae",
+      "age": 26,
+      "photo": "/profiles/p29.jpg",
+      "bio": "Game designer, PC-bang veteran, fried chicken purist. Happiest on a mountain or in a co-op lobby.",
+      "city": "Seoul, South Korea",
+      "interests": ["Games", "Hiking", "Fried chicken", "PC cafes"]
+    },
+    {
+      "id": "p30",
+      "name": "Ruby",
+      "age": 29,
+      "photo": "/profiles/p30.jpg",
+      "bio": "Radio producer with a blue hair phase that never ended. Vinyl, cold swims, and comedy gigs.",
+      "city": "Wellington, New Zealand",
+      "interests": ["Vinyl", "Cold swims", "Comedy", "Radio"]
+    }
+  ],
+  "incomingLikes": ["p01", "p03", "p05", "p07", "p08", "p09", "p12", "p15", "p17", "p21", "p24", "p27", "p30"],
+  "swipes": [
+    {
+      "id": "swipe_seed_james",
+      "profileId": "p08",
+      "direction": "like",
+      "createdAt": "2026-11-15T18:20:00.000Z"
+    }
+  ],
+  "matches": [
+    {
+      "id": "match_seed_james",
+      "profileId": "p08",
+      "matchedAt": "2026-11-15T18:20:01.000Z"
+    }
+  ]
+}
