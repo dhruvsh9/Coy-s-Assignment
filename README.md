@@ -19,7 +19,7 @@ The existing experience is represented by a deliberately blank **Home** tab. All
 
 ## Features
 
-- 30 seeded profiles with names, ages, local placeholder portraits, bios, cities, colleges, and interests
+- 50 seeded profiles with names, ages, local placeholder portraits, bios, cities, colleges, and interests
 - One profile card at a time with the next card layered behind
 - Touch/mouse drag gestures with rotation, threshold detection, and LIKE/NOPE feedback
 - Desktop-friendly pass/like buttons and keyboard support (`←` / `→`)

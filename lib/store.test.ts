@@ -27,10 +27,10 @@ describe("Coy discovery store", () => {
       await readFile(seedPath, "utf8"),
     ) as Database;
 
-    expect(seed.profiles).toHaveLength(30);
+    expect(seed.profiles).toHaveLength(50);
 
     const feed = await store.getFeed();
-    expect(feed).toHaveLength(29);
+    expect(feed).toHaveLength(49);
     expect(feed.map((profile) => profile.id)).not.toContain("p08");
   });
 
